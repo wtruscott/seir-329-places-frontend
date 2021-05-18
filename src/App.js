@@ -7,7 +7,7 @@ import Form from "./Form";
 function App() {
 
 // URL in a variable
-const url = "http://localhost:4000"
+const url = "https://seir-329-characters.herokuapp.com"
 // State to hold the list of dogs
 const [places, setPlaces] = React.useState([])
 
